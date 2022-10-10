@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PadejskiJ, Jelena
 - 👀 I’m interested in QA Software Testing
-- 🌱 I’m currently learning Software Testing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Testing at IT BOOTCAMP
+- 💞️ I’m looking for QA job/practise
 - 📫 How to reach me jelena.padejski@gmail.com
 
 <!---
