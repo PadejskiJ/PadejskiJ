@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PadejskiJ, Jelena
 - 👀 I’m interested in QA Software Testing
-- 🌱 I’m currently a Testing Intern @ Levi9
+- 🌱 I’m currently Testing Intern @ Levi9
 - 💞️ I’m looking for QA job
 - 📫 How to reach me jelena.padejski@gmail.com
 
